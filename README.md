@@ -4,13 +4,7 @@ A high-fidelity, modern Trivia experience built with **SwiftUI**. This is a pet 
 
 ---
 
-## 📱 Project Preview
 
-| Home Screen | Setup Quiz | Quiz Play |
-| :--- | :--- | :--- |
-| ![Home](https://via.placeholder.com/200x400?text=Home+UI) | ![Setup](https://via.placeholder.com/200x400?text=Setup+UI) | ![Play](https://via.placeholder.com/200x400?text=Play+UI) |
-
----
 
 ## ✨ Features
 
